@@ -1,0 +1,158 @@
+﻿body {
+	background-color: #eeeeee;
+	padding: 0;
+	margin: 0;
+	height: 1200px;
+	width: 1349px;;
+}
+
+.header {
+	width: 1349px;
+	height: 200px;
+	background-color: white
+}
+
+.header h1 {
+	font-family: serif;
+	margin-left: 100px;
+	padding-top: 20px;
+	font-size: 50px;
+	font-weight: 100;
+}
+
+.firstp {
+	padding-top: 20px;
+	margin-left: 100px;
+}
+
+.secondp {
+	margin-left: 100px;
+}
+
+.logo {
+	margin-left: 1000px;
+	margin-top: -230px;
+}
+
+.line {
+	margin-top: -30px;
+}
+
+.line2 {
+	margin-top: -60px;
+	margin-left: -4px;
+}
+
+.line3 {
+	margin-top: -70px;
+	margin-left: -4px;
+}
+
+.line4 {
+	margin-top: -60px;
+	margin-left: -4px;
+}
+
+.line5 {
+	margin-top: -45px;
+	margin-left: 1200px;
+}
+
+.main {
+	padding-top: 50px;
+	padding-left: 30px;
+}
+
+.main h1 {
+	font-family: arial;
+	font-size: 35px;
+	font-weight: 100;
+}
+
+.main h3 {
+	font-family: arial;
+	font-size: 15px;
+	font-weight: 100;
+}
+
+.koment {
+	float: left;
+	margin-top: 30px;
+	margin-left: 10%;
+	padding: 15px;
+}
+
+.koment {
+	float: left;
+	font-size: 1.3em;
+	margin-left: 20px;
+}
+
+.koment > .message {
+	font-size: 1.1em;
+	float: left;
+	padding-left: 10px;
+}
+
+h1 {
+	margin-top: 50px;
+}
+
+.footer {
+	margin-top: 400px;
+	width: 1349px;
+	height: 200px;
+	background-color: white;
+}
+
+.tel {
+	padding-top: 20px;
+	margin-left: 400px;
+}
+
+.email {
+	margin-left: 400px;
+}
+
+.adress {
+	margin-left: 400px;
+}
+
+.rules {
+	margin-left: 400px;
+}
+
+textarea {
+	border: 2px solid black;
+	resize: none;
+	background-color: #eeeeee;
+	border-radius: 3px;
+	width: 350px;
+	height: 150px;
+}
+
+.button {
+	border: 2px solid black;
+	margin-left: 90px;
+	border-radius: 3px;
+	background-color: #eeeeee;
+	color: black;
+	width: 10em;
+	height: 3em;
+	margin-top: -30px;
+	margin-left: 215px;
+}
+
+.name1 {
+	border: 1px solid white;
+	width: 26em;
+	height: 2.5em;
+	border-radius: 3px;
+}
+
+.logo_2 {
+	margin-top: -140px;
+	padding-bottom: 10px;
+	padding-left: 100px;
+
+}
