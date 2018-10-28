@@ -30,11 +30,6 @@ header('content-type: text/html; charset=utf-8');
 		<p class="secondp">Email: <u>info@future-group.ru</u></p>
 		<h1>Комментарии</h1>
 		<img src="img/logo.jpg" alt="Future" class="logo">
-		<img src="img/wavy_line.png" class="line">
-		<img src="img/wavy_line.png" class="line2">
-		<img src="img/wavy_line.png" class="line3">
-		<img src="img/wavy_line.png" class="line4">
-		<img src="img/wavy_line_half.png" class="line5">
 		</div>
 		<div class="main">
 		<?php $komen = mysqli_query($con, "SELECT * FROM koments order by id") ?>
